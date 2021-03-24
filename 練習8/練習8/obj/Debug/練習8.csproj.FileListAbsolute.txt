@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\C#\練習8\練習8\bin\Debug\練習8.exe.config
+C:\Users\user\Desktop\C#\練習8\練習8\bin\Debug\練習8.exe
+C:\Users\user\Desktop\C#\練習8\練習8\bin\Debug\練習8.pdb
+C:\Users\user\Desktop\C#\練習8\練習8\obj\Debug\練習8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\練習8\練習8\obj\Debug\練習8.exe
+C:\Users\user\Desktop\C#\練習8\練習8\obj\Debug\練習8.pdb
+C:\Users\user\Desktop\C#\練習8\練習8\obj\Debug\練習8.csprojAssemblyReference.cache
+C:\Users\user\Desktop\作業們\C#\練習8\練習8\bin\Debug\練習8.exe.config
+C:\Users\user\Desktop\作業們\C#\練習8\練習8\bin\Debug\練習8.exe
+C:\Users\user\Desktop\作業們\C#\練習8\練習8\bin\Debug\練習8.pdb
+C:\Users\user\Desktop\作業們\C#\練習8\練習8\obj\Debug\練習8.csprojAssemblyReference.cache
+C:\Users\user\Desktop\作業們\C#\練習8\練習8\obj\Debug\練習8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\作業們\C#\練習8\練習8\obj\Debug\練習8.exe
+C:\Users\user\Desktop\作業們\C#\練習8\練習8\obj\Debug\練習8.pdb

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C#\練習9\練習9\bin\Debug\練習9.exe.config
+C:\Users\user\Desktop\C#\練習9\練習9\bin\Debug\練習9.exe
+C:\Users\user\Desktop\C#\練習9\練習9\bin\Debug\練習9.pdb
+C:\Users\user\Desktop\C#\練習9\練習9\obj\Debug\練習9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\練習9\練習9\obj\Debug\練習9.exe
+C:\Users\user\Desktop\C#\練習9\練習9\obj\Debug\練習9.pdb
+C:\Users\user\Desktop\作業們\C#\練習9\練習9\bin\Debug\練習9.exe.config
+C:\Users\user\Desktop\作業們\C#\練習9\練習9\bin\Debug\練習9.exe
+C:\Users\user\Desktop\作業們\C#\練習9\練習9\bin\Debug\練習9.pdb
+C:\Users\user\Desktop\作業們\C#\練習9\練習9\obj\Debug\練習9.csprojAssemblyReference.cache
+C:\Users\user\Desktop\作業們\C#\練習9\練習9\obj\Debug\練習9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\作業們\C#\練習9\練習9\obj\Debug\練習9.exe
+C:\Users\user\Desktop\作業們\C#\練習9\練習9\obj\Debug\練習9.pdb
